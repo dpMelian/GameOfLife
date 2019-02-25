@@ -7,3 +7,7 @@ Implementation of Conway's Game Of Life in C# using Windows Forms
 
 ## Example of the result
 ![ezgif com-optimize](https://user-images.githubusercontent.com/22601021/53347889-533dc200-391a-11e9-9d37-4bc9761fa583.gif)
+
+## Credits
+
+Icons made by [Google](https://www.flaticon.com/authors/google) from www.flaticon.com 
