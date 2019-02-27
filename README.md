@@ -1,5 +1,5 @@
 # GameOfLife
-Implementation of Conway's Game Of Life in C# using Windows Forms
+Implementation of [Conway's Game Of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in C# using Windows Forms
 
 ## Implemented functionalities:
 * Pause/Continue/Skip buttons to change the current state of the simulation
