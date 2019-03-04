@@ -6,7 +6,7 @@ Implementation of [Conway's Game Of Life](https://en.wikipedia.org/wiki/Conway%2
 * Change delay of the simulation for different display speeds
 
 ## Example of the result
-![ezgif com-optimize](https://user-images.githubusercontent.com/22601021/53347889-533dc200-391a-11e9-9d37-4bc9761fa583.gif)
+![ezgif com-optimize](https://user-images.githubusercontent.com/22601021/53730513-74516600-3e78-11e9-8978-b93e080c40f5.gif)
 
 ## Credits
 
